@@ -17,7 +17,6 @@ function Home() {
         <Homediv4/>
         <Homediv5/>
 
-
         <Footer/>
       
     </div>
