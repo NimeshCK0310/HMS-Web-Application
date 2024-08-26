@@ -242,6 +242,7 @@ function Dashboard() {
                     onMouseEnter={(e) => (e.currentTarget.style.backgroundColor = '#218838')}
                     onMouseLeave={(e) => (e.currentTarget.style.backgroundColor = '#007BFF')}
                   >
+                  
                     View
                   </Button>
                 </Paper>
