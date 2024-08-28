@@ -18,7 +18,7 @@ function Home() {
         <Homediv5/>
 
         <Footer/>
-      
+    
     </div>
   )
 }
