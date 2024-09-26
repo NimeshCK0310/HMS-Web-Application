@@ -31,7 +31,6 @@ function CreateAppointment() {
         <div>
             <Navbar/>
         <div className="container">
-            
             <form onSubmit={Submit}>
                 <h3>Make An Appointment</h3>
                 <div className="form-grid">
