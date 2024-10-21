@@ -17,7 +17,6 @@ import ServicesPg from './pages/Service/ServicesPg'
 import UpdateService from './pages/Service/UpdateService'
 import Login from './pages/Login/Login'
 
-
 function App() {
 
   return (
